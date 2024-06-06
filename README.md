@@ -26,7 +26,7 @@
 
 ## 🎬 Review On Youtube:
 
- [![Review On Youtube](https://img.youtube.com/vi/gfR2a9vo1vI/0.jpg)](https://youtu.be/gfR2a9vo1vI "Review On Youtube")
+[![Review On Youtube](https://img.youtube.com/vi/kxNvZfannO4/0.jpg)](https://youtu.be/kxNvZfannO4"Review On Youtube")
 
 </p>
 
