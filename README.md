@@ -16,7 +16,7 @@
   <a href="https://hk4tech.com/home/Epic-Games-Portable">
   </a>
   <br>
-  v1.0.0.0 (Epic Games Portable Full) - June 06, 2024 - <a href="https://github.com/AhmedNasserHK/Epic-Games-Portable/releases/download/1.0.0.0/EpicGames.Portable.FULL.7z">Download (1.67 MB)</a>
+  v1.0.0.0 (Epic Games Portable Full) - June 06, 2024 - <a href="https://github.com/AhmedNasserHK/Epic-Games-Portable/releases/download/1.0.0.0/EpicGames.Portable.FULL.7z">Download (1.47 MB)</a>
    <br>
   v1.0.0.0 (Epic Games Portable Full Plug & Run) - June 06, 2024 - <a href="https://github.com/AhmedNasserHK/Epic-Games-Portable/releases/download/1.0.0.0/EpicGames.Portable.Plug.Run.HTML">Download (757 MB)</a>
   <br>
